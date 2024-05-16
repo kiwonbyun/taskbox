@@ -1,0 +1,50 @@
+$ storybook build --output-dir /var/folders/k_/m5rtzlvj6gjdb3t9v2rhgp100000gn/T/chromatic--12184-oaLHMor6HEIu
+@storybook/cli v7.6.6
+
+info => Cleaning outputDir: /var/folders/k_/m5rtzlvj6gjdb3t9v2rhgp100000gn/T/chromatic--12184-oaLHMor6HEIu
+info => Loading presets
+info => Building manager..
+info => Manager built (80 ms)
+info => Building preview..
+info => Copying static files: /Users/byunkiwon/WebstormProjects/taskbox/node_modules/@storybook/manager/static at /var/folders/k_/m5rtzlvj6gjdb3t9v2rhgp100000gn/T/chromatic--12184-oaLHMor6HEIu/sb-common-assets
+info => Copying static files: /Users/byunkiwon/WebstormProjects/taskbox/public at /var/folders/k_/m5rtzlvj6gjdb3t9v2rhgp100000gn/T/chromatic--12184-oaLHMor6HEIu/
+vite v4.5.1 building for production...
+transforming...
+✓ 562 modules transformed.
+rendering chunks...
+computing gzip size...
+../../../../var/folders/k_/m5rtzlvj6gjdb3t9v2rhgp100000gn/T/chromatic--12184-oaLHMor6HEIu/iframe.html                                     12.60 kB │ gzip:   3.59 kB
+../../../../var/folders/k_/m5rtzlvj6gjdb3t9v2rhgp100000gn/T/chromatic--12184-oaLHMor6HEIu/assets/percolate-dac75269.ttf                   34.04 kB
+../../../../var/folders/k_/m5rtzlvj6gjdb3t9v2rhgp100000gn/T/chromatic--12184-oaLHMor6HEIu/assets/percolate-ec979d96.woff                  34.11 kB
+../../../../var/folders/k_/m5rtzlvj6gjdb3t9v2rhgp100000gn/T/chromatic--12184-oaLHMor6HEIu/assets/percolate-5ed633c2.eot                   34.21 kB
+../../../../var/folders/k_/m5rtzlvj6gjdb3t9v2rhgp100000gn/T/chromatic--12184-oaLHMor6HEIu/assets/percolate-d13fa91b.svg                  140.51 kB │ gzip:  46.93 kB
+../../../../var/folders/k_/m5rtzlvj6gjdb3t9v2rhgp100000gn/T/chromatic--12184-oaLHMor6HEIu/assets/preview-dd25d82c.css                      6.87 kB │ gzip:   2.05 kB
+../../../../var/folders/k_/m5rtzlvj6gjdb3t9v2rhgp100000gn/T/chromatic--12184-oaLHMor6HEIu/assets/preview-25c7db9f.js                       0.15 kB │ gzip:   0.15 kB
+../../../../var/folders/k_/m5rtzlvj6gjdb3t9v2rhgp100000gn/T/chromatic--12184-oaLHMor6HEIu/assets/WithTooltip-V3YHNWJZ-2e85b40e.js          0.39 kB │ gzip:   0.25 kB
+../../../../var/folders/k_/m5rtzlvj6gjdb3t9v2rhgp100000gn/T/chromatic--12184-oaLHMor6HEIu/assets/syntaxhighlighter-V7JZZA35-252c5815.js    0.40 kB │ gzip:   0.27 kB
+../../../../var/folders/k_/m5rtzlvj6gjdb3t9v2rhgp100000gn/T/chromatic--12184-oaLHMor6HEIu/assets/preview-e21062b7.js                       0.47 kB │ gzip:   0.31 kB
+../../../../var/folders/k_/m5rtzlvj6gjdb3t9v2rhgp100000gn/T/chromatic--12184-oaLHMor6HEIu/assets/index-3fd0d1ea.js                         0.58 kB │ gzip:   0.35 kB
+../../../../var/folders/k_/m5rtzlvj6gjdb3t9v2rhgp100000gn/T/chromatic--12184-oaLHMor6HEIu/assets/preview-73104b77.js                       0.64 kB │ gzip:   0.45 kB
+../../../../var/folders/k_/m5rtzlvj6gjdb3t9v2rhgp100000gn/T/chromatic--12184-oaLHMor6HEIu/assets/_commonjsHelpers-de833af9.js              0.69 kB │ gzip:   0.38 kB
+../../../../var/folders/k_/m5rtzlvj6gjdb3t9v2rhgp100000gn/T/chromatic--12184-oaLHMor6HEIu/assets/index-356e4a49.js                         0.77 kB │ gzip:   0.47 kB
+../../../../var/folders/k_/m5rtzlvj6gjdb3t9v2rhgp100000gn/T/chromatic--12184-oaLHMor6HEIu/assets/preview-0ef86afd.js                       0.86 kB │ gzip:   0.55 kB
+../../../../var/folders/k_/m5rtzlvj6gjdb3t9v2rhgp100000gn/T/chromatic--12184-oaLHMor6HEIu/assets/entry-preview-fb6629d6.js                 1.12 kB │ gzip:   0.66 kB
+../../../../var/folders/k_/m5rtzlvj6gjdb3t9v2rhgp100000gn/T/chromatic--12184-oaLHMor6HEIu/assets/index-11d98b33.js                         2.59 kB │ gzip:   1.26 kB
+../../../../var/folders/k_/m5rtzlvj6gjdb3t9v2rhgp100000gn/T/chromatic--12184-oaLHMor6HEIu/assets/TaskList.stories-6f0618bc.js              2.72 kB │ gzip:   0.98 kB
+../../../../var/folders/k_/m5rtzlvj6gjdb3t9v2rhgp100000gn/T/chromatic--12184-oaLHMor6HEIu/assets/Task.stories-79b52011.js                  2.83 kB │ gzip:   1.34 kB
+../../../../var/folders/k_/m5rtzlvj6gjdb3t9v2rhgp100000gn/T/chromatic--12184-oaLHMor6HEIu/assets/preview-30b54f76.js                       3.21 kB │ gzip:   1.37 kB
+../../../../var/folders/k_/m5rtzlvj6gjdb3t9v2rhgp100000gn/T/chromatic--12184-oaLHMor6HEIu/assets/iframe-cc872efd.js                        4.07 kB │ gzip:   1.56 kB
+../../../../var/folders/k_/m5rtzlvj6gjdb3t9v2rhgp100000gn/T/chromatic--12184-oaLHMor6HEIu/assets/preview-d01b88e8.js                       5.23 kB │ gzip:   2.41 kB
+../../../../var/folders/k_/m5rtzlvj6gjdb3t9v2rhgp100000gn/T/chromatic--12184-oaLHMor6HEIu/assets/index-76fb7be0.js                         7.16 kB │ gzip:   2.91 kB
+../../../../var/folders/k_/m5rtzlvj6gjdb3t9v2rhgp100000gn/T/chromatic--12184-oaLHMor6HEIu/assets/preview-da31036b.js                       7.62 kB │ gzip:   1.55 kB
+../../../../var/folders/k_/m5rtzlvj6gjdb3t9v2rhgp100000gn/T/chromatic--12184-oaLHMor6HEIu/assets/preview-c56bf6ac.js                       8.28 kB │ gzip:   3.17 kB
+../../../../var/folders/k_/m5rtzlvj6gjdb3t9v2rhgp100000gn/T/chromatic--12184-oaLHMor6HEIu/assets/Color-6VNJS4EI-80b2aa0a.js               31.00 kB │ gzip:  11.74 kB
+../../../../var/folders/k_/m5rtzlvj6gjdb3t9v2rhgp100000gn/T/chromatic--12184-oaLHMor6HEIu/assets/preview-21802b0a.js                      72.07 kB │ gzip:  24.41 kB
+../../../../var/folders/k_/m5rtzlvj6gjdb3t9v2rhgp100000gn/T/chromatic--12184-oaLHMor6HEIu/assets/_getPrototype-1e53b583.js                78.40 kB │ gzip:  23.54 kB
+../../../../var/folders/k_/m5rtzlvj6gjdb3t9v2rhgp100000gn/T/chromatic--12184-oaLHMor6HEIu/assets/react-18-236157c6.js                    134.55 kB │ gzip:  43.45 kB
+../../../../var/folders/k_/m5rtzlvj6gjdb3t9v2rhgp100000gn/T/chromatic--12184-oaLHMor6HEIu/assets/entry-preview-docs-c7c6facc.js          213.12 kB │ gzip:  66.83 kB
+../../../../var/folders/k_/m5rtzlvj6gjdb3t9v2rhgp100000gn/T/chromatic--12184-oaLHMor6HEIu/assets/DocsRenderer-NNNQARDV-44e74992.js       537.26 kB │ gzip: 175.77 kB
+../../../../var/folders/k_/m5rtzlvj6gjdb3t9v2rhgp100000gn/T/chromatic--12184-oaLHMor6HEIu/assets/formatter-SWP5E3XI-9eabf24c.js          601.59 kB │ gzip: 186.23 kB
+✓ built in 2.50s
+info => Preview built (2.74 s)
+info => Output directory: /var/folders/k_/m5rtzlvj6gjdb3t9v2rhgp100000gn/T/chromatic--12184-oaLHMor6HEIu
