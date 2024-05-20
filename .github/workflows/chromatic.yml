@@ -3,11 +3,7 @@
 name: 'Chromatic Deployment'
 
 # Event for the workflow
-on:
-  push:
-    branches:
-      - main
-      - dev
+on: push
 
 # List of jobs
 jobs:
