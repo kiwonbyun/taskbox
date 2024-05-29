@@ -1,7 +1,3 @@
-
-# Workflow name
-name: 'Chromatic Deployment'
-
 # Event for the workflow
 on: push
 
@@ -12,8 +8,15 @@ jobs:
     runs-on: ubuntu-latest
     # Job steps
     steps:
-      - uses: actions/checkout@v1
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - name: Set up Git
+        run: |
+          git config --global user.email "bkw9603@naver.com"
+          git config --global user.name "kiwonbyun"
       - run: yarn
+      - run: yarn build-storybook
         #👇 Adds Chromatic as a step in the workflow
       - uses: chromaui/action@v1
         # Options required for Chromatic's GitHub Action
